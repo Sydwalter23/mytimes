@@ -15,7 +15,8 @@ h4 {
 nav span {
   display: inline-block;
   padding: 20px 10px;
-}
+  }
+
 header {
   align-items: center;
   background-color: white;
@@ -30,18 +31,16 @@ header {
   border-bottom: 1px solid black
 }
 
+header nav {
+  padding-right: 40px;
+}
+
 .logo {
     color: MediumAquamarine;
     display: flex;
     flex-grow: 1;
     padding: 30px;
     width: 70px;
-}
-
-.list {
- display: inline-block;
- text-decoration: underline;
- text-align: center;
 }
 
 h1 {
